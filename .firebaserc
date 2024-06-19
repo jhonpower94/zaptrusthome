@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "koinbittrust-7ba0a"
+  },
+  "targets": {
+    "koinbittrust-7ba0a": {
+      "hosting": {
+        "kt": [
+          "koinbittrust"
+        ]
+      }
+    }
+  }
+}
