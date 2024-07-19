@@ -1,6 +1,6 @@
 {
   "hosting": [{
-    "target": "kt",
+    "target": "saptrust",
     "public": "public",
     "ignore": [
       "firebase.json",

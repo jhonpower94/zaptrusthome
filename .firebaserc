@@ -1,12 +1,20 @@
 {
   "projects": {
-    "default": "koinbittrust-7ba0a"
+    "default": "koinbittrust-7ba0a",
+    "sp": "saptrust-6a083"
   },
   "targets": {
     "koinbittrust-7ba0a": {
       "hosting": {
         "kt": [
           "koinbittrust"
+        ]
+      }
+    },
+    "saptrust-6a083": {
+      "hosting": {
+        "saptrust": [
+          "saptrustgroup"
         ]
       }
     }
