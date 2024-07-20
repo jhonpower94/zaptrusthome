@@ -1,7 +1,8 @@
 {
   "projects": {
     "default": "koinbittrust-7ba0a",
-    "sp": "saptrust-6a083"
+    "sp": "saptrust-6a083",
+    "ib": "instantbank-d1bda"
   },
   "targets": {
     "koinbittrust-7ba0a": {
@@ -15,6 +16,13 @@
       "hosting": {
         "saptrust": [
           "saptrustgroup"
+        ]
+      }
+    },
+    "instantbank-d1bda": {
+      "hosting": {
+        "ib": [
+          "instantbanking"
         ]
       }
     }
