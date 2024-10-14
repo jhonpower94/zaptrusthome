@@ -2,7 +2,8 @@
   "projects": {
     "default": "koinbittrust-7ba0a",
     "sp": "saptrust-6a083",
-    "ib": "instantbank-d1bda"
+    "ib": "instantbank-d1bda",
+    "alliant": "alliant-96528"
   },
   "targets": {
     "koinbittrust-7ba0a": {
@@ -25,6 +26,15 @@
           "instantbanking"
         ]
       }
+    },
+    "alliant-96528": {
+      "hosting": {
+        "alliant": [
+          "alliant"
+        ]
+      }
     }
-  }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
