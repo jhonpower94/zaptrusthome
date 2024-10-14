@@ -3,7 +3,8 @@
     "default": "koinbittrust-7ba0a",
     "sp": "saptrust-6a083",
     "ib": "instantbank-d1bda",
-    "alliant": "alliant-96528"
+    "alliant": "alliant-96528",
+    "rb": "rabobank-2c011"
   },
   "targets": {
     "koinbittrust-7ba0a": {
@@ -31,6 +32,13 @@
       "hosting": {
         "alliant": [
           "alliant"
+        ]
+      }
+    },
+    "rabobank-2c011": {
+      "hosting": {
+        "rb": [
+          "rabobank"
         ]
       }
     }

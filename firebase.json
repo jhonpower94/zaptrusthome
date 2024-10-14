@@ -1,6 +1,6 @@
 {
   "hosting": [{
-    "target": "alliant",
+    "target": "rb",
     "public": "public",
     "ignore": [
       "firebase.json",
