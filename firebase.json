@@ -1,6 +1,6 @@
 {
   "hosting": [{
-    "target": "rb",
+    "target": "fex",
     "public": "public",
     "ignore": [
       "firebase.json",

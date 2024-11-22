@@ -4,7 +4,8 @@
     "sp": "saptrust-6a083",
     "ib": "instantbank-d1bda",
     "alliant": "alliant-96528",
-    "rb": "rabobank-2c011"
+    "rb": "rabobank-2c011",
+    "fex": "fexbank-232c4"
   },
   "targets": {
     "koinbittrust-7ba0a": {
@@ -39,6 +40,13 @@
       "hosting": {
         "rb": [
           "rabobank"
+        ]
+      }
+    },
+    "fexbank-232c4": {
+      "hosting": {
+        "fex": [
+          "fexbank"
         ]
       }
     }
